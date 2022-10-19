@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gunicorn
+pandas
+tqdm
+torch>1.9,<1.11
+torchvision
+faiss
+pillow

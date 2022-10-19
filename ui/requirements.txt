@@ -1,0 +1,2 @@
+streamlit>=1.2.0
+markdown>=3.3.4
